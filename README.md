@@ -1,21 +1,14 @@
-# 🧹 Layoffs Data Cleaning & Analysis – SQL
+# 📈 Executive Overview Dashboard – Tableau
 
-This project focuses on cleaning and exploring global layoffs data using SQL (MySQL).
+An interactive Tableau dashboard designed for high-level executives to monitor KPIs and trends.
 
-## 🔧 Tools Used
-- MySQL
-- SQL CTEs, Window Functions, Aggregations
+## 💡 Features
 
-## 🧼 Cleaning Includes:
-- Removing duplicates
-- Standardizing inconsistent entries
-- Handling nulls and converting data types
+- Regional sales/profit breakdown
+- Monthly and categorical trends
+- Clear visual storytelling
 
-## 📊 EDA Highlights:
-- Top affected companies and industries
-- Time series trends by year/month
-- Rolling layoffs by country and stage
+## 📁 File
+- `Executive Overview.twbx`: Tableau packaged workbook
 
-## 📁 Files
-- `CLEAN DATA.sql`: Data cleaning script
-- `EDA.sql`: Exploratory Data Analysis queries
+To explore the dashboard, open the `.twbx` file in Tableau Desktop.
