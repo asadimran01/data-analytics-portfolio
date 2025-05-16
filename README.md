@@ -19,4 +19,4 @@ An Excel dashboard tracking KPIs and monthly sales trends.
 
 **Name**: M. Asad Imran  
 **GitHub**: [asadimran01](https://github.com/asadimran01)  
-**LinkedIn**: [View Profile](https://www.linkedin.com/in/asadimran01)
+**LinkedIn**: [View Profile](linkedin.com/in/asad-imran2112)
