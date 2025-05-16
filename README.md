@@ -1,14 +1,22 @@
-# 📈 Executive Overview Dashboard – Tableau
+# 📊 Data Analytics Portfolio – M. Asad Imran
 
-An interactive Tableau dashboard designed for high-level executives to monitor KPIs and trends.
+Welcome to my portfolio of data analytics projects using Tableau, SQL, and Excel.
 
-## 💡 Features
+## 🔍 Projects
 
-- Regional sales/profit breakdown
-- Monthly and categorical trends
-- Clear visual storytelling
+### 1. [Executive Overview Dashboard – Tableau](executive-overview-tableau)
+Interactive dashboard for high-level executive reporting.
 
-## 📁 File
-- `Executive Overview.twbx`: Tableau packaged workbook
+### 2. [Layoffs Data Cleaning & EDA – SQL](layoffs-analysis-sql)
+Used SQL to clean and analyze global layoffs data.
 
-To explore the dashboard, open the `.twbx` file in Tableau Desktop.
+### 3. [Sales Performance Dashboard – Excel](sales-performance-excel)
+An Excel dashboard tracking KPIs and monthly sales trends.
+
+---
+
+## 👨‍💻 About Me
+
+**Name**: M. Asad Imran  
+**GitHub**: [asadimran01](https://github.com/asadimran01)  
+**LinkedIn**: [View Profile](https://www.linkedin.com/in/asadimran01)
